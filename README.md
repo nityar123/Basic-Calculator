@@ -8,7 +8,7 @@ This is a simple calculator application built in Java that allows users to perfo
 - **Basic Operations**: Supports addition, subtraction, multiplication, and division.
 - **Error Handling**: Displays user-friendly error messages for invalid inputs, such as non-numeric values and division by zero.
 
-## Requirements to run
+## Requirements to Run Code
 
 - Java Development Kit (JDK) 8 or later
 - An IDE such as Eclipse, IntelliJ IDEA, or any text editor to run Java programs
